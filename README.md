@@ -31,6 +31,8 @@ Exibir mensagens de erro claras, como aviso para inserir nomes ou para adicionar
 
 `Funcionalidade 4` Não tem problema colocar nome igual, pois o próprio sistema vai te alertar sobre isso.
 
+![Descrição do GIF](https://github.com/polianafonseca23/challenge-amigo-secreto_pt-main/blob/e6798f3abd68d4f29c38e65106410fa2dd42508e/image.gif)
+
 `Funcionalidade 5` Após adicionar pelo menos dois nomes, clique no botão "Sortear amigo" para realizar o sorteio.
 
 `Funcionalidade 6` O resultado do sorteio será exibido na tela.
